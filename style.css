@@ -1,4 +1,4 @@
-:root {
+﻿:root {
   --ink: #0b1720;
   --blue: #176b87;
   --ice: #d9f3f5;
@@ -422,7 +422,7 @@ footer small {
   inset: -10%;
   background:
     linear-gradient(180deg, rgba(5, 16, 22, 0.08), rgba(5, 16, 22, 0.7)),
-    url("hero.jpg") center/cover no-repeat;
+    url("layer-clima.jpg") center/cover no-repeat;
   transform: scale(1.08);
   z-index: -3;
 }
